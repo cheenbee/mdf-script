@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         mdf goods's photots download
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  download mdf goods's photots
 // @author       You
-// @match        https://stripe-club.com/
+// @match        https://stripe-club.com/*
 // @icon         https://www.google.com/s2/favicons?domain=stripe-club.com
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 
